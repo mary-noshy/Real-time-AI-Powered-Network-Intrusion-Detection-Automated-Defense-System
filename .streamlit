@@ -1,0 +1,9 @@
+# C:\Users\maryn\Downloads\final\.streamlit\secrets.toml
+
+sender_email = "mariam.zaki502@gmail.com" # Your actual sender email
+receiver_email = "mariam.zaki1300@gmail.com" # Your actual receiver email
+email_password = "efti nhed igsj vtyf" # Your generated 16-character Gmail App Password
+
+
+# NEW: Add your Gemini API Key here
+llm_api_key = "AIzaSyASmwpzVZr3OJH8yOnLwi1bXLjuCN04wB8"
